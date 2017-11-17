@@ -1,15 +1,15 @@
 {
-  "name": "angular-qr",
-  "version": "0.2.0",
+  "name": "angular-qr-updated",
+  "version": "1.0.0",
   "description": "QR code generator for AngularJS",
   "keywords": ["qr", "qrcode", "angular"],
-  "authors": ["Jan Antala <hello@janantala.com>"],
+  "authors": ["Thomas Manson <dev.mansonthomas@gmail.com>"],
   "license": "MIT",
-  "homepage": "https://github.com/janantala/angular-qr",
-  "main": "./src/angular-qr.js",
+  "homepage": "https://github.com/dev-mansonthomas/angular-qr-updated",
+  "main": "src/angular-qr.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janantala/angular-qr.git"
+    "url": "https://github.com/dev-mansonthomas/angular-qr-updated.git"
   },
   "ignore": [
     "**/.*",
@@ -21,10 +21,10 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "~1.2.5",
+    "angular": "~1.6.6",
     "qrcode": "~1.0.x"
   },
   "devDependencies": {
-    "angular-mocks": "~1.2.5"
+    "angular-mocks": "~1.6.6"
   }
 }
