@@ -2,6 +2,8 @@
 
 QR code generator for AngularJS
 
+Transform a string into a QRCode
+
 based on http://janantala.github.io/angular-qr/demo/
 with just the dependency to AngularJS 1.6 udpated
 
